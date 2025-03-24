@@ -8,7 +8,8 @@ namespace Laba1Task2and3
         {   
             try
             {
-                string dllPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "ClassLibrary.dll");// тут пришлось копировать длл из клас лайбари в бин reflection libary потому что оно не могло найти путь
+                //string dllPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "ClassLibrary.dll");// тут пришлось копировать длл из клас лайбари в бин reflection libary потому что оно не могло найти путь
+                string dllPath = @"D:\study_it\MultythreadC#\Laba1Final\ReflectionLibary\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll";
                 Assembly assembly = Assembly.LoadFrom(dllPath);
                 Type[] types = assembly.GetTypes();
 
