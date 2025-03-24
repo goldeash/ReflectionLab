@@ -1,0 +1,14 @@
+D:\study_it\MultythreadC#\Laba1Final\ReflectionLibary\ReflectionLibary\bin\Debug\net8.0\ReflectionLibary.exe
+D:\study_it\MultythreadC#\Laba1Final\ReflectionLibary\ReflectionLibary\bin\Debug\net8.0\ReflectionLibary.deps.json
+D:\study_it\MultythreadC#\Laba1Final\ReflectionLibary\ReflectionLibary\bin\Debug\net8.0\ReflectionLibary.runtimeconfig.json
+D:\study_it\MultythreadC#\Laba1Final\ReflectionLibary\ReflectionLibary\bin\Debug\net8.0\ReflectionLibary.dll
+D:\study_it\MultythreadC#\Laba1Final\ReflectionLibary\ReflectionLibary\bin\Debug\net8.0\ReflectionLibary.pdb
+D:\study_it\MultythreadC#\Laba1Final\ReflectionLibary\ReflectionLibary\obj\Debug\net8.0\ReflectionLibary.GeneratedMSBuildEditorConfig.editorconfig
+D:\study_it\MultythreadC#\Laba1Final\ReflectionLibary\ReflectionLibary\obj\Debug\net8.0\ReflectionLibary.AssemblyInfoInputs.cache
+D:\study_it\MultythreadC#\Laba1Final\ReflectionLibary\ReflectionLibary\obj\Debug\net8.0\ReflectionLibary.AssemblyInfo.cs
+D:\study_it\MultythreadC#\Laba1Final\ReflectionLibary\ReflectionLibary\obj\Debug\net8.0\ReflectionLibary.csproj.CoreCompileInputs.cache
+D:\study_it\MultythreadC#\Laba1Final\ReflectionLibary\ReflectionLibary\obj\Debug\net8.0\ReflectionLibary.dll
+D:\study_it\MultythreadC#\Laba1Final\ReflectionLibary\ReflectionLibary\obj\Debug\net8.0\refint\ReflectionLibary.dll
+D:\study_it\MultythreadC#\Laba1Final\ReflectionLibary\ReflectionLibary\obj\Debug\net8.0\ReflectionLibary.pdb
+D:\study_it\MultythreadC#\Laba1Final\ReflectionLibary\ReflectionLibary\obj\Debug\net8.0\ReflectionLibary.genruntimeconfig.cache
+D:\study_it\MultythreadC#\Laba1Final\ReflectionLibary\ReflectionLibary\obj\Debug\net8.0\ref\ReflectionLibary.dll

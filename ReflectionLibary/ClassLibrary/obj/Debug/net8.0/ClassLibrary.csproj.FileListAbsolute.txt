@@ -1,0 +1,11 @@
+D:\study_it\MultythreadC#\ReflectionLibary\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+D:\study_it\MultythreadC#\ReflectionLibary\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+D:\study_it\MultythreadC#\ReflectionLibary\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+D:\study_it\MultythreadC#\ReflectionLibary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\study_it\MultythreadC#\ReflectionLibary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\study_it\MultythreadC#\ReflectionLibary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+D:\study_it\MultythreadC#\ReflectionLibary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\study_it\MultythreadC#\ReflectionLibary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+D:\study_it\MultythreadC#\ReflectionLibary\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+D:\study_it\MultythreadC#\ReflectionLibary\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+D:\study_it\MultythreadC#\ReflectionLibary\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll

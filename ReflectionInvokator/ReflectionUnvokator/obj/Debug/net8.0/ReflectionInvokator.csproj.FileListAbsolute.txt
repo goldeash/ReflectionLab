@@ -1,0 +1,14 @@
+D:\study_it\MultythreadC#\Laba1Final\ReflectionInvokator\ReflectionUnvokator\bin\Debug\net8.0\ReflectionInvokator.exe
+D:\study_it\MultythreadC#\Laba1Final\ReflectionInvokator\ReflectionUnvokator\bin\Debug\net8.0\ReflectionInvokator.deps.json
+D:\study_it\MultythreadC#\Laba1Final\ReflectionInvokator\ReflectionUnvokator\bin\Debug\net8.0\ReflectionInvokator.runtimeconfig.json
+D:\study_it\MultythreadC#\Laba1Final\ReflectionInvokator\ReflectionUnvokator\bin\Debug\net8.0\ReflectionInvokator.dll
+D:\study_it\MultythreadC#\Laba1Final\ReflectionInvokator\ReflectionUnvokator\bin\Debug\net8.0\ReflectionInvokator.pdb
+D:\study_it\MultythreadC#\Laba1Final\ReflectionInvokator\ReflectionUnvokator\obj\Debug\net8.0\ReflectionInvokator.GeneratedMSBuildEditorConfig.editorconfig
+D:\study_it\MultythreadC#\Laba1Final\ReflectionInvokator\ReflectionUnvokator\obj\Debug\net8.0\ReflectionInvokator.AssemblyInfoInputs.cache
+D:\study_it\MultythreadC#\Laba1Final\ReflectionInvokator\ReflectionUnvokator\obj\Debug\net8.0\ReflectionInvokator.AssemblyInfo.cs
+D:\study_it\MultythreadC#\Laba1Final\ReflectionInvokator\ReflectionUnvokator\obj\Debug\net8.0\ReflectionInvokator.csproj.CoreCompileInputs.cache
+D:\study_it\MultythreadC#\Laba1Final\ReflectionInvokator\ReflectionUnvokator\obj\Debug\net8.0\ReflectionInvokator.dll
+D:\study_it\MultythreadC#\Laba1Final\ReflectionInvokator\ReflectionUnvokator\obj\Debug\net8.0\refint\ReflectionInvokator.dll
+D:\study_it\MultythreadC#\Laba1Final\ReflectionInvokator\ReflectionUnvokator\obj\Debug\net8.0\ReflectionInvokator.pdb
+D:\study_it\MultythreadC#\Laba1Final\ReflectionInvokator\ReflectionUnvokator\obj\Debug\net8.0\ReflectionInvokator.genruntimeconfig.cache
+D:\study_it\MultythreadC#\Laba1Final\ReflectionInvokator\ReflectionUnvokator\obj\Debug\net8.0\ref\ReflectionInvokator.dll
