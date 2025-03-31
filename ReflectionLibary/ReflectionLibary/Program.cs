@@ -6,6 +6,7 @@ namespace Laba1Task2and3
     {
         static void Main(string[] args)
         {   
+            public const string printObjectMethodName = "PrintObject";
             try
             {
                 //string dllPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "ClassLibrary.dll");// тут пришлось копировать длл из клас лайбари в бин reflection libary потому что оно не могло найти путь
@@ -70,7 +71,7 @@ namespace Laba1Task2and3
                     object instance = createMethod.Invoke(null, createParams);
                     Console.WriteLine("  Instance created.");
 
-                    MethodInfo printMethod = type.GetMethod("PrintObject");
+                    MethodInfo printMethod = type.GetMethod(printObjectMethodName);
                     if (printMethod == null)
                     {
                         Console.WriteLine("  Method 'PrintObject' not found.");
